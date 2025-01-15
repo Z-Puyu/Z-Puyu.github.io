@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zeta, Pi, Upsilon # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhang
 middle_name: 
 last_name: Puyu
@@ -106,7 +106,6 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -209,8 +208,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Puyu]
+  first_name: [Zhang]
 
   style: apa
   locale: en
