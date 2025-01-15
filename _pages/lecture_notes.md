@@ -4,7 +4,7 @@ permalink: /lecture-notes/
 title: Lecture Notes
 description: My hand-crafted lecture notes.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 
