@@ -1,10 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Important
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Lecture Notes
+    permalink: /lecture-notes/
+  - title: divider
+  - title: Teaching
+    permalink: /teaching/
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /lecture-notes/
-title: lecture notes
-description: my hand-crafted lecture notes.
+title: Lecture Notes
+description: My hand-crafted lecture notes.
 nav: true
 nav_order: 2
 ---
