@@ -2,21 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: To be done first, and perfect later.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: my_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+# news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+**I have a marvellous biography, but the margins here are too small to contain it**, so I will only tell you that I am...
+
+- 🧑‍🎓 a current year 3 **mathematics (primary major) and CS (second major)** undergraduate in National University of Singapore;
+- ❤️ **passion-driven**, **well-organised** and a little bit **perfectionist**;
+- 🔭 currently working on [Road of Heroes](https://github.com/Z-Puyu/Road-of-Heroes), my first self-initiated game development project;
+- 🌱 currently learning **game & software development**, **operations research** and **Japanese**;
+- 📖 a part-time student teaching assistant at the School of Computing, National University of Singapore.
+
+You might want to stalk the virtual me via this website to dig out more about my secrets :O
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
