@@ -4,54 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hi there! I'm Puyu 👋
+Hi there! 👋
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:zpyzhangpuyu@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/zhang-puyu-b86491319/)
+My name is Zhang Puyu and I am currently a fourth year **mathematics (primary major) and CS (second major)** undergraduate student in National University of Singapore. This website is about me, my thoughts and my projects.
 
-## I am...
+I am an **aspiring game developer** who is **passion-driven**, **well-organised** and a little bit **perfectionist**. As of now, I am actively learning **game and software design and development** and **Japanese**. My interest in game development primarily lies in content design, world-building and tooling.
 
-- 🧑‍🎓 a current year 4 **mathematics (primary major) and CS (second major)** undergraduate in National University of Singapore;
-- ❤️ **passion-driven**, **well-organised** and a little bit **perfectionist**;
-- 🌱 currently learning **game & software development**, **operations research** and **Japanese**;
-- 🔭 currently working on [Project: Supper Stretch](https://github.com/Z-Puyu/Project-Supper-Stretch), a self-initiated third-person dungeon adventure RPG solo project by myself;
-- 🔭 developed [Dungeon Slayer](https://github.com/Z-Puyu/CS3247_Project), a roguelike first-person deckbuilder video game project, with other 5 amazing teammates;
-- 📖 a part-time student teaching assistant at the School of Computing, National University of Singapore.
+I mainly work with **C++** and **C#** in **Unity** and **Unreal Engine**. My past project experiences revolve around two video game projects:
 
-## I code in...
+1. [Dungeon Slayer](https://github.com/Z-Puyu/CS3247_Project), a rogue-like first-person deck-builder video game, which I developed together with other 5 amazing teammates with Unreal Engine 5.5. I took part in designing and implementing a **utility-based AI decision-making framework**, a **node-based crafting system emulating visual scripting**, as well as a **procedural level generation system**. I was also in charge of monitoring project progress and team management via Jira.
+   
+2. [Project: Supper Stretch](https://github.com/Z-Puyu/Project-Supper-Stretch), a self-initiated third-person dungeon adventure RPG, which I designed and developed on my own as a solo project in Unity. The purpose of this project is to practise implementing various common mechanics and systems from scratch, including but not limited to **animations**, **combo mechanics in melee combat**, **behaviour trees**, complex **character attribute systems** and **model-view-presenter architecture** in user interface design.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,js,ts" />
-  </a>
-</p>
+Beside these, I also did a website application student project, [HiveMind](https://github.com/Z-Puyu/hive-mind), with another partner using TypeScript and React. This application features a **modular lecture notes editor** with full-fledged support for rendering mathematical expressions and hyperlinks between document sections.
 
-## I know...
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,firebase,godot,html,latex,ps,react,unity,unreal" />
-  </a>
-</p>
-
-## I do...
-
-| Project                                                                       |                                   Lanaguge                                   | Remark                                                    |
-| :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------: | :-------------------------------------------------------- |
-| [NUS maths lecture notes collection](https://github.com/Z-Puyu/lecture-notes) |   [![LaTeX](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)   | My personally curated lecture notes for NUS maths courses |
-| [HiveMind: modular lecture notes editor](https://github.com/Z-Puyu/hive-mind) | [![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) | My first software development project in Orbital 2023     |
-| [Project: Supper Stretch](https://github.com/Z-Puyu/Project-Supper-Stretch)   |    [![LaTeX](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)     | My solo game development project                          |
-| [Dungeon Slayer](https://github.com/Z-Puyu/CS3247-Project)                    |    [![LaTeX](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)    | My game development group school project                  |
-
-## I use...
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,rider,visualstudio,vscode" />
-  </a>
-</p>
-
-## My GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-Puyu&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Puyu&theme=onedark&show_icons=true&hide_border=true&layout=compact)
