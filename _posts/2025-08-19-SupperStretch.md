@@ -8,7 +8,7 @@ pin: true
 ---
 
 > Disclaimer: The project code is simply a deliberate coincidence with a certain popular location in the university where the creator of this game is currently studying in, and it may or may not truly reflect the game's contents.
-{: .prompt-hint }
+{: .prompt-tip }
 
 ## Overview
 
